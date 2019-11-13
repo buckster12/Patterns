@@ -1,4 +1,4 @@
-package com.company;
+package com.company.Strategy;
 
 public class ModelDuck extends Duck {
     public ModelDuck() {
